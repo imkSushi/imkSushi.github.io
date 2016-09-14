@@ -1,0 +1,34 @@
+* {
+    font-family: Consolas, Monospace;
+    background: green;
+    color:white;
+}
+ 
+h1 {
+    text-align: center;
+}
+ 
+a {
+    text-decoration:none;
+}
+ 
+a:hover {
+    text-decoration:underline;
+}
+ 
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+ 
+#ModLogo {  
+    width: 50%;
+    margin: 0 25%;
+}
+ 
+#UndergroundStuff {
+    border:5px dashed red;
+-moz-border-radius:20px;
+-webkit-border-radius:20px;
+padding: 10px;
+}
