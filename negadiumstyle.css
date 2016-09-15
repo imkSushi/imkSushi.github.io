@@ -9,7 +9,8 @@ text-align:center;
 position:fixed;
 top:0px;
 left:0px;
-padding:20px;
+padding-top:20px;
+padding-bottom:10px;
 margin:0px auto;
 width:100%;
 }
@@ -19,8 +20,12 @@ top:60px;
 padding-top:10px;
 margin-bottom:2px;
 border-bottom:8px groove orange;
+border-radius:100%;
 }
 
+h1.title {
+padding-bottom:30px;
+}
 img {
 margin-left:auto;
 margin-right:auto;
