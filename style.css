@@ -6,6 +6,9 @@
  
 h1 {
     text-align: center;
+position:fixed;
+width:100%;
+padding:10px;
 }
  
 a {
@@ -35,4 +38,8 @@ padding: 10px;
 
 .algebra {
 color:yellow;
+}
+
+#top {
+margin-top:60px;
 }
