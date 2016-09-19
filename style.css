@@ -49,3 +49,10 @@ margin-top:70px;
 font-size: 19px;
 text-align:center;
 }
+
+.maths {
+    border: 3px solid purple;
+-moz-border-radius:20px;
+-webkit-border-radius:20px;
+padding:10px;
+}
