@@ -1,7 +1,10 @@
 * {
     font-family: Consolas, Monospace;
-    background: green;
     color:white;
+}
+
+body {
+    background-image: url("Background.png");
 }
  
 h1 {
@@ -13,6 +16,7 @@ top:0px;
 left:0px;
 margin:0px auto;
 border-bottom:4px dotted red;
+background: green;
 }
  
 a {
@@ -38,6 +42,7 @@ h2 {
 -moz-border-radius:20px;
 -webkit-border-radius:20px;
 padding: 10px;
+background: green;
 }
 
 .algebra {
@@ -55,6 +60,7 @@ text-align:center;
 -moz-border-radius:20px;
 -webkit-border-radius:20px;
 padding:10px;
+background: green;
 }
 
 .middlepage {
@@ -66,8 +72,17 @@ padding:10px;
     border:6px solid #003B6F;
 -moz-border-radius:20px;
 -webkit-border-radius:20px;
+background: green;
 }
 
 #MinieK {
 color:red;
+}
+
+a {
+background: green;
+}
+
+.green {
+background: green;
 }
