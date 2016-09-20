@@ -62,8 +62,12 @@ padding:10px;
 }
 
 .DoctorWho {
-    padding:15px;
-    border:10px solid blue;
+    padding:10px;
+    border:6px solid #003B6F;
 -moz-border-radius:20px;
 -webkit-border-radius:20px;
+}
+
+#MinieK {
+color:red;
 }
