@@ -56,3 +56,14 @@ text-align:center;
 -webkit-border-radius:20px;
 padding:10px;
 }
+
+.middlepage {
+    text-align:center;
+}
+
+.DoctorWho {
+    padding:15px;
+    border:10px solid blue;
+-moz-border-radius:20px;
+-webkit-border-radius:20px;
+}
