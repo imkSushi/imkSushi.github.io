@@ -86,3 +86,8 @@ background: green;
 .green {
 background: green;
 }
+
+#brd {
+    border:1px solid green;
+}
+}
