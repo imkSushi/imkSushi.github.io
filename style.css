@@ -93,9 +93,13 @@ padding:5px;
 #brd {
     border:1px solid green;
 }
+
+#Tardis {  
+    margin: 0 45% 0 45%;
+    width: 10%;
 }
 
-#tardis {  
-    width: 10%;
-    margin: 0 45%;
+#ModStats {
+    margin: auto;
+    display: block;
 }
