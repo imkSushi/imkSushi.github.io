@@ -20,12 +20,12 @@ a {
 }
 
 a:hover {
-		text-decoration: hover;
+		text-decoration: underline;
 }
 
 .info {
 		display: block;
-		width: 50px;
+		width: 150px;
 		background: red;
 		margin: 5px;
 	padding:2px;
@@ -34,7 +34,7 @@ a:hover {
 
 div {
 		display: block;
-		width: 64px;
+		width: 164px;
 		background: grey;
 		margin: 5px;
 	padding:2px
