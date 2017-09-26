@@ -1,0 +1,39 @@
+* {
+    font-family: Consolas, Monospace;
+		color:white;
+		background:red;
+}
+
+h1 {
+		text-align: center;
+		width: 100%;
+		padding: 10px;
+		top: 0px;
+		left: 0px;
+		margin 0px auto;
+		border-bottom: 4px dotted green;
+}
+
+a {
+		text-decoration: none;
+}
+
+a:hover {
+		text-decoration: hover;
+}
+
+.info {
+		display: inline-block;
+		width: 50px;
+		background: red;
+		margin-right: 5px;
+		margin-left: calculate(100% - 55px);
+}
+
+div {
+		display: inline-block;
+		width: 60px;
+		background: grey;
+		margin-right: 0px;
+		margin-left: calculate(100% - 60px);
+}
