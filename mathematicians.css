@@ -27,7 +27,6 @@ a:hover {
 		width: 50px;
 		background: red;
 		margin-right: 5px;
-		margin-left: calculate(100% - 55px);
 }
 
 div {
@@ -35,5 +34,4 @@ div {
 		width: 60px;
 		background: grey;
 		margin-right: 0px;
-		margin-left: calculate(100% - 60px);
 }
