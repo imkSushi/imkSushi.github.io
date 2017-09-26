@@ -1,7 +1,7 @@
 * {
     font-family: Consolas, Monospace;
 		color:white;
-		background:red;
+		background:maroon;
 }
 
 h1 {
@@ -25,7 +25,7 @@ a:hover {
 .info {
 		display: block;
 		width: 150px;
-		background: red;
+		background: maroon;
 		margin: 5px;
 	padding:2px;
 	position: relative;
@@ -34,7 +34,7 @@ a:hover {
 div {
 		display: block;
 		width: 164px;
-		background: grey;
+		background: green;
 		margin: 5px;
 	padding:2px;
 	float:right;
