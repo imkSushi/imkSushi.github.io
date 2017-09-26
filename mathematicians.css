@@ -16,6 +16,7 @@ h1 {
 
 a {
 		text-decoration: none;
+	color: green;
 }
 
 a:hover {
@@ -23,15 +24,19 @@ a:hover {
 }
 
 .info {
-		display: inline-block;
+		display: block;
 		width: 50px;
 		background: red;
-		margin-right: 5px;
+		margin: 5px;
+	padding:2px;
+	position: relative;
 }
 
 div {
-		display: inline-block;
-		width: 60px;
+		display: block;
+		width: 64px;
 		background: grey;
-		margin-right: 0px;
+		margin: 5px;
+	padding:2px
+	float:right;
 }
