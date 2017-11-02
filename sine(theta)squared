@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="shortcut icon" type="image/x-icon" href="Tardis.png" />
+		<title>sin(θ)²</title>
+	</head>
+	<body>
+  <h1>sin(θ)²</h1>
+  <ol>Issues with sin²θ:
+  <li>Sine is a function. As such, the value that the function is performed on should be surrounded with brackets, i.e. sin²θ should actually be sin²(θ).</li>
+  <li>Usually, for a function 'f', f²(x) = f(f(x)). But for sine, sin²(θ) = sin(θ)², and not sin(sin(θ)).</li>
+How to fix this:/nConvention should be changed to be more consistent - i.e. sin²θ should only ever be written as sin(θ)², and never as sin²θ.
+  
+  </ol>
+	</body>
+</html>
