@@ -23,3 +23,23 @@ background: green;
 margin-top:70px;
 font-size: 19px;
 }
+
+.info {
+		display: block;
+		width: 150px;
+		background: maroon;
+		margin: 5px;
+    margin-top:5px;
+	padding:2px;
+	position: relative;
+}
+
+div {
+		display: block;
+		width: 164px;
+		background: green;
+		margin: 5px;
+	padding:2px;
+	float:right
+        margin-top 70px;
+}
