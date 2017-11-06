@@ -1,0 +1,25 @@
+* {
+font-family:Consolas, Monospace;
+color:white;
+}
+
+body {
+    background-image: url("Background.png");
+}
+
+h1 {
+    text-align: center;
+position:fixed;
+width:100%;
+padding:10px;
+top:0px;
+left:0px;
+margin:0px auto;
+border-bottom:4px dotted red;
+background: green;
+}
+
+#top {
+margin-top:70px;
+font-size: 19px;
+}
