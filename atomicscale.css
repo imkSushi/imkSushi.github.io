@@ -1,6 +1,7 @@
 * {
 font-family:Consolas, Monospace;
 color:white;
+		margin 0px auto;
 }
 
 body {
@@ -27,9 +28,8 @@ font-size: 19px;
 .info {
 		display: block;
 		width: 150px;
-		background: maroon;
+		background: green;
 		margin: 5px;
-    margin-top:5px;
 	padding:2px;
 	position: relative;
 }
@@ -37,9 +37,37 @@ font-size: 19px;
 div {
 		display: block;
 		width: 164px;
-		background: green;
+		background: maroon;
 		margin: 5px;
 	padding:2px;
 	float:right
-        margin-top 70px;
+}
+
+li {
+	font-size: 16pt;
+}
+
+p {
+	font-size: 16pt;
+}
+
+.pages {
+	text-decoration: none;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+padding: 1px;
+}
+
+.pages:hover {
+	background: red;
+}
+
+#linkbar {
+	margin-left: 50px;
+	border: 1px solid blue;
+	background: green;
+	padding: 3px;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+float: left;
 }
