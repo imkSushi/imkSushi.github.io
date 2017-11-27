@@ -1,0 +1,179 @@
+    * {
+        background-color:chartreuse;
+        color:orangered;
+    }
+    p {
+    width:490px;
+    border:10px dashed red;
+    height:50px;
+    display:inline-block;
+    font-family:Monotype Corsiva, cursive;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius:20px;
+    }
+    .sushi {
+    color:green;
+    font-size:50px;
+    border:5px dotted green;
+    }
+    .suprise {
+    background-color:blue;
+    border:5px dotted yellow;
+    }
+    #LEGO {
+    color:red;
+    border:5px dotted red;
+    font-size:18px;
+    }
+    li {
+    background-color:blue;
+    text-align:left;
+    font-family:Monotype Corsiva, cursive;
+    list-style-image:
+    }
+    #birth {
+    height:100px;
+    width:250px;
+    border:20px ridge white;
+    margin-top:97px;
+    }
+    .game {
+    text-decoration:none;
+    border:2px solid blue;
+    color:red;
+    background-color:yellow;
+    height:70px;
+    }
+    .h1 {
+    position:fixed;
+    top:0;
+    left:0;
+    padding:20px;
+    margin:0;
+    width:100%;
+    text-align:center;
+    text-decoration:underline;
+    background-color:red;
+    border:10px dashed springgreen;
+    border-radius:64px;
+    -moz-border-radius:64px;
+    -webkit-border-radius:64px;
+    font-family:Comic Sans MS, cursive;
+    color:gold;
+    }
+    .first {
+    margin-top:110px;
+    height:auto;
+    }
+    .not-first {
+        height:auto;
+    }
+    .lines {
+    background-color:crimson;
+    color:white;
+    }
+    .info {
+    border:50px groove green;
+    text-align:center;
+    border-radius:100%;
+    padding:200px;
+    background-color:crimson;
+    -moz-box-shadow:10px black;
+    -webkit-box-shadow:10px black;
+    box-shadow:10px black;
+    }
+    a {
+    background-color:blue;
+    text-decoration:none;
+    color:#e01010;
+    }
+    .soon {
+    border:10px dotted cyan;
+    width:600px;
+    display:block;
+    height:auto;
+    background-color:blanchedalmond;
+    }
+    #like {
+    border:5px dotted orange;
+    color:orange;
+    font-size:18px;
+    }
+    #suprise {
+    display:block;
+    }
+    #update {
+    border:1px dotted blue;
+    color:red;
+    width:auto;
+    height:auto;
+    font-size:20px;
+    }
+    .offline {
+    background-color:blue;
+    text-decoration:none;
+    color:#e01010;
+    cursor: pointer;}
+    .offline:hover {
+        text-decoration:underline;
+    }
+    a:hover {
+        text-decoration:underline;
+    }
+    .closed {
+        height:auto;
+        width:250px;
+    }
+    #school {
+        color:aqua;
+     border:5px dotted aqua;
+     font-size:18px;
+    }
+    img {
+        height:100px;
+        margin:0 45%;
+    }
+    ul {
+        font-family:Comic Sans MS, cursive;
+    }
+    h3 {
+        font-family:Comic Sans MS, cursive;
+    }
+    h2 {
+        font-family:Comic Sans MS, cursive;
+    }
+    strong {
+        background-color:red;
+    }
+    .code {
+        font-style:oblique;
+        color:red;
+        background-color:blanchedalmond;
+    }
+    a:active {
+        text-decoration:overline;
+        color:chartreuse;
+    }
+    body{
+        background-image:url("http://upload.wikimedia.org/wikipedia/commons/b/b8/London_Underground_subsurface_and_tube_trains.jpg");
+    background-attachment:fixed;
+    }
+    q {
+        background-color:blanchedalmond;
+    }
+    .map-header{
+        text-align:center;
+        background-color:navy;
+        color:chartreuse;
+    }
+    .map-div {
+        border:10px groove aliceblue;
+        background-color:navy;
+    }
+    .map-text {
+        background-color:navy;
+        color:chartreuse;
+        border:none;
+    }
+    /*for update: a:active text-shadow text-align:justify line-height letter-spacing word-spacing font-style font-weight font-stretch min-width max-width min-height max-height overflow margin visibility border-image -moz-bow-shadow -webkit-box-shadow box-shadow -moz-borderer-radius webkit-borderer-radius borderer-radius list-style-image margin-bottom background-image background-repeat*/
